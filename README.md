@@ -1,4 +1,4 @@
--Hi everyone, I am firstly an enthusiastic computer scientist, loving any kind of problem solving task. The following consists of a **messy** set of both personal and academic projects, collected over the years and spanning several topics.
+Hi everyone, I am firstly an enthusiastic computer scientist, loving any kind of problem solving task. The following consists of a **messy** set of both personal and academic projects, collected over the years and spanning several topics.
 Lastly, I am very concise, so that's it.
 
 <!---
